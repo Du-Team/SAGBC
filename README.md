@@ -1,9 +1,9 @@
-# SAGBC：Structure-Aware Granular Ball Clustering
+# Structure-Aware Granular Ball Clustering
 ## Introduction
 
 A Python implementation of the clustering algorithm presented in:
 
-   <b><i>Qijia Wang, Mingjing Du*. SAGBC：Structure-Aware Granular Ball Clustering. <i> Information Sciences</i>, 2026, 740: 123224.</i></b>
+   <b><i>Qijia Wang, Mingjing Du*. Structure-Aware Granular Ball Clustering. <i> Information Sciences</i>, 2026, 740: 123224.</i></b>
 
 ## Requirements
  * numpy>=1.22.3
